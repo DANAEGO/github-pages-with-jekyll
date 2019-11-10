@@ -1,10 +1,10 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Traveling Through Morelos
+author: DANAEGO
+email: dgo84588@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  In this blog you will find places to visit in Morelos,
+  either to relax, have fun or to eat. Enojy your stay!!!
 
 # social links
 twitter_username: your-twitter-handle
